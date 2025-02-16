@@ -1,2 +1,7 @@
 kaggle
 py7zr
+numpy
+pandas
+Pillow
+matplotlib
+scikit-learn
