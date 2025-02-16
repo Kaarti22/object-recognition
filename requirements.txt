@@ -1,0 +1,2 @@
+kaggle
+py7zr
